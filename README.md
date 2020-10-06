@@ -2,20 +2,6 @@
 <html>
 <body>
  
- 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
- 
 <h1 align="center"> UE4 RPG Template </h1> 
 
 <h2 align="center"> All the blueprints and classes are completely project-independent and you can safely use them to build your own project. </h2>
